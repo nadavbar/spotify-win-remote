@@ -4,7 +4,7 @@
   "description": "Remote control the Spotify windows client using node.js",
   "main": "index.js",
   "dependencies": {
-    "node-ffi" : "*"
+    "ffi" : "*"
   },
   "devDependencies": {},
   "keywords": [

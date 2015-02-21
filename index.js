@@ -1,4 +1,4 @@
-var ffi = require('node-ffi');
+var ffi = require('ffi');
 
 // Code below is based on the awesome work that was done in Toastify: https://toastify.codeplex.com/
 
