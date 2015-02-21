@@ -1,0 +1,26 @@
+{
+  "name": "spotify-win-remote",
+  "version": "0.0.1",
+  "description": "Remote control the Spotify windows client using node.js",
+  "main": "index.js",
+  "dependencies": {
+    "node-ffi" : "*"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "spotify",
+    "windows",
+    "remote",
+    "music"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nadavbar/spotify-win-remote.git"
+  },
+  "homepage": "https://github.com/nadavbar/spotify-win-remote",
+  "author": "nadavbar <nadavbar@gmail.com>",
+  "license": "MIT"
+}
