@@ -1,4 +1,4 @@
-spotifi-win-remote
+spotify-win-remote
 ======================
 
 Remote control your Spotify client on windows using node.js.
